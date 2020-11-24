@@ -1,0 +1,18 @@
+branch-defaults:
+  default:
+    environment: django-env
+    group_suffix: null
+global:
+  application_name: BuildingModernAppsPython
+  branch: null
+  default_ec2_keyname: my-keypair
+  default_platform: Python 3.6 running on 64bit Amazon Linux
+  default_region: ap-southeast-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: null
+  sc: null
+  workspace_type: Application
